@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        //recommended extensions
+        "jdinhlife.gruvbox", //gruvbox theme
+        "wmaurer.change-case", //change-case
+        "streetsidesoftware.code-spell-checker", //code spell checker
+        "PKief.material-icon-theme", //material icon theme
+
+        //Flutter Development
+        "Dart-Code.dart-code", //dart code
+        "Dart-Code.flutter", //flutter
+
+        //optional
+        "EditorConfig.EditorConfig", //editor config
+        "subframe7536.custom-ui-styles" //custom ui styles
+    ]
+}
